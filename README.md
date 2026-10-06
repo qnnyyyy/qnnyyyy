@@ -20,7 +20,7 @@
 Sou desenvolvedor **Full Stack** e gosto de construir produto de ponta a ponta: do banco de dados ao deploy, passando pela
 interface no navegador, no Windows e no celular.
 
-- 🚀 Criei o **Dokai**, uma suíte de documentos com IA que roda na **web**, no **PC** e no **celular**, tudo sincronizado
+- 🚀 Criei o **Dokai**, um Software de documentos com IA que roda na **web**, no **PC** e no **celular**, tudo sincronizado
 - 📊 Criei o **SnefAnalytics**, plataforma de contagem de pessoas por câmeras com dashboards e alertas em tempo real
 - 🤖 Integro **IA** nos meus produtos (o **Kai**, assistente do Dokai, roda com Google Gemini)
 - ☁️ Faço meu próprio **deploy**: Docker, VPS Linux e HTTPS automático com Caddy
