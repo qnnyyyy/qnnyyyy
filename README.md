@@ -29,24 +29,24 @@ alertas pelo WhatsApp.
 
 ---
 
-## 🎓 O que eu sei fazer
+## 🎓 Experiência
 
-- 🎨 **Front-end:** monto interfaces em React que eu quero que fiquem bonitas *e* rápidas. No Dokai fiz editor de texto,
-  planilha com fórmula, slides e editor de PDF do zero (com TipTap, Konva e pdf.js)
-- ⚙️ **Back-end:** APIs em Node + Express, login com JWT, upload de arquivo, coisa em tempo real com WebSocket/Socket.io
-  e tarefa agendada rodando sozinha
-- 📱 **Mobile:** o app do Dokai pro celular, feito em React Native
-- 🖥️ **Desktop:** o Dokai pro Windows em Electron, com servidor e banco rodando no próprio PC, então funciona até sem
-  internet e sincroniza quando volta. Fiz o instalador e mandei pra Microsoft Store também
-- 🗄️ **Banco de dados:** MySQL (o Snef atende várias empresas no mesmo banco), SQLite, e já mexi com MongoDB e Firestore
-- 🤖 **IA:** integrei o Google Gemini no Dokai pra ler e criar documento junto com o usuário
-- 📄 **Arquivos:** abrir, gerar e converter Word, Excel, PowerPoint e PDF, inclusive assinar e proteger PDF com senha
-- 💳 **Integrações:** pagamento com Mercado Pago, Spotify, envio de e-mail e bot de WhatsApp
-- ☁️ **Deploy:** eu mesmo coloco no ar: Docker, VPS Linux e HTTPS com Caddy
+- 🎨 **Front-end:** React, Vite, Tailwind e Zustand. No Dokai desenvolvi editores de texto, planilha, apresentação e PDF
+  (TipTap, Konva e pdf.js)
+- ⚙️ **Back-end:** APIs REST com Node.js e Express, autenticação com JWT, upload de arquivos, WebSocket/Socket.io e
+  tarefas agendadas
+- 📱 **Mobile:** app do Dokai para celular em React Native
+- 🖥️ **Desktop:** app do Dokai para Windows em Electron, com servidor e banco locais, funcionamento offline e
+  sincronização com o site. Instalador e versão para a Microsoft Store
+- 🗄️ **Banco de dados:** MySQL, SQLite, MongoDB e Firebase Firestore
+- 🤖 **IA:** integração com Google Gemini
+- 📄 **Arquivos:** leitura, geração e conversão de Word, Excel, PowerPoint e PDF, incluindo assinatura e senha em PDF
+- 💳 **Integrações:** Mercado Pago, Spotify, envio de e-mail e bot de WhatsApp
+- ☁️ **Deploy:** Docker, VPS Linux e HTTPS com Caddy
 
 ---
 
-## 🛠️ Minhas skills
+## 🛠️ Habilidades
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,nodejs,express&theme=dark" alt="Skills 1" /><br/>
@@ -98,14 +98,14 @@ alertas pelo WhatsApp.
 
 ---
 
-## 🚀 Meus projetos
+## 🚀 Projetos
 
 ### 📄 Dokai (Web)
 <a href="https://dokai.online"><img src="https://img.shields.io/badge/acessar-dokai.online-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="dokai.online" /></a>
 
-A ideia foi ter tudo de documento num lugar só: texto, planilha, apresentação e PDF (dá até pra assinar). Tem pastas,
-checklist, dá pra trabalhar em equipe e tem o **Kai**, a IA que eu coloquei pra ajudar a escrever e entender os arquivos.
-Abre e exporta Word, Excel, PowerPoint e PDF numa boa. Tá no ar, pode testar!
+Site de criação e edição de documentos: texto, planilha, apresentação e PDF (com assinatura). Tem biblioteca com
+pastas, checklist, trabalho em equipe e o **Kai**, IA que ajuda a criar e entender os documentos. Importa e exporta
+Word, Excel, PowerPoint e PDF.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -121,9 +121,9 @@ Abre e exporta Word, Excel, PowerPoint e PDF numa boa. Tá no ar, pode testar!
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
 ### 🖥️ Dokai (PC)
-Eu não queria só jogar o site numa janela, então fiz um app de verdade pro Windows. Ele tem servidor e banco rodando no
-próprio PC, funciona sem internet e sincroniza com o site quando conecta. Ainda coloquei abas, ícone na bandeja e o
-"Enviar para o Dokai" no botão direito do Explorer. Tem instalador e versão pra Microsoft Store.
+Versão do Dokai para Windows, com servidor e banco de dados rodando no próprio PC. Funciona offline e sincroniza
+com o site quando conecta. Tem abas, ícone na bandeja, opção "Enviar para o Dokai" no botão direito do Explorer,
+instalador e versão para a Microsoft Store.
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -134,8 +134,8 @@ próprio PC, funciona sem internet e sincroniza com o site quando conecta. Ainda
 ![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ### 📱 Dokai (Celular)
-Faltava o Dokai no bolso, né? 😅 Mesma conta e mesmos documentos do site e do PC, tudo sincronizado, e o Kai
-junto pra quando precisar.
+Versão do Dokai para celular, com a mesma conta e os mesmos documentos do site e do PC, sincronizados, e acesso
+ao Kai.
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -143,9 +143,9 @@ junto pra quando precisar.
 ![Node.js](https://img.shields.io/badge/API%20Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### 📊 SnefAnalytics
-Sistema que conta quantas pessoas passam pelas câmeras e transforma isso em gráfico e relatório (dá pra baixar em Excel).
-Várias empresas usam o mesmo sistema, cada uma com suas zonas, câmeras e usuários. Quando um lugar passa do limite de
-gente, ele avisa sozinho no WhatsApp e no e-mail.
+Sistema de contagem de pessoas por câmeras, com gráficos, relatórios (exportação em Excel) e controle de usuários
+e permissões. Atende várias empresas, cada uma com suas zonas e câmeras, e envia alerta por WhatsApp e e-mail quando
+um local atinge o limite de pessoas.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -159,7 +159,7 @@ gente, ele avisa sozinho no WhatsApp e no e-mail.
 
 ---
 
-## 📈 Meu GitHub em números
+## 📈 Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=qnnyyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&locale=pt-br&count_private=true" alt="Estatísticas" />
@@ -172,7 +172,7 @@ gente, ele avisa sozinho no WhatsApp e no e-mail.
 
 ---
 
-<p align="center"><b>Valeu por passar aqui! Se curtiu algum projeto, deixa uma ⭐ 💜</b></p>
+<p align="center"><b>Obrigado pela visita!</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="Footer" />
