@@ -4,31 +4,28 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=E+a%C3%AD!+Eu+sou+o+Kenny+%F0%9F%91%8B;Fiz+o+Dokai+pra+web%2C+PC+e+celular+%F0%9F%93%84;Curto+criar+coisa+do+zero+at%C3%A9+o+deploy+%F0%9F%9A%80;Bora+trocar+ideia%3F+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack;Criador+do+Dokai;Experi%C3%AAncia+em+React%2C+Node.js+e+MySQL;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://dokai.online"><img src="https://img.shields.io/badge/Dokai-dokai.online-7F5AF0?style=for-the-badge&logo=googledocs&logoColor=white" alt="Dokai" /></a>
   <a href="mailto:kennymaciel6@gmail.com"><img src="https://img.shields.io/badge/Email-kennymaciel6%40gmail.com-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=qnnyyyy&style=for-the-badge&color=7F5AF0&label=VISITAS" alt="Visitas" />
+  <img src="https://hits.sh/github.com/qnnyyyy.svg?style=for-the-badge&label=VISITAS&color=7F5AF0&labelColor=2CB67D" alt="Visitas" />
 </p>
 
 ---
 
-## 👋 Prazer, Kenny!
+## 👋 Sobre mim
 
-Eu sou o Kenny, dev full stack, e o que eu mais curto é pegar uma ideia e levar até o fim: penso a tela, monto a API,
-modelo o banco, subo pro servidor e fico ajustando até ficar do jeito que eu quero.
+Olá, me chamo Kenny, tenho 22 anos e sou Dev Full Stack.
+Formado na Etec em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na Estácio.
 
-Meu xodó hoje é o **Dokai**. Comecei com o site, aí quis ter ele no PC, depois no celular... e quando vi já tinha
-três apps conversando entre si, com a mesma conta e os mesmos documentos em todo lugar. Também botei uma IA lá dentro,
-o **Kai**, que ajuda a criar e entender documentos.
+Meu projeto principal atualmente é o **Dokai**, um site de criação e edição de documentos (texto, planilha,
+apresentação e PDF), que também tem versão para PC e para celular. Ele tem uma IA própria, o **Kai**, que ajuda a
+criar e entender os documentos.
 
-Fora isso, fiz o **SnefAnalytics**, um sistema que conta pessoas por câmera e mostra tudo em gráfico, com alerta
-no WhatsApp quando o lugar enche.
-
-Tô sempre estudando e testando coisa nova. Se quiser trocar ideia sobre projeto, JavaScript ou qualquer coisa de dev,
-me chama! 😄
+Também desenvolvi o **SnefAnalytics**, um sistema de contagem de pessoas por câmeras, com gráficos, relatórios e
+alertas pelo WhatsApp.
 
 ---
 
