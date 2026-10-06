@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Kenny+%F0%9F%91%8B;Criador+do+Dokai+%F0%9F%93%84;Web+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+IA;Criador+do+SnefAnalytics+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=E+a%C3%AD!+Eu+sou+o+Kenny+%F0%9F%91%8B;Fiz+o+Dokai+pra+web%2C+PC+e+celular+%F0%9F%93%84;Curto+criar+coisa+do+zero+at%C3%A9+o+deploy+%F0%9F%9A%80;Bora+trocar+ideia%3F+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,35 +15,41 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Prazer, Kenny!
 
-Sou desenvolvedor **Full Stack** e gosto de construir produto de ponta a ponta: do banco de dados ao deploy, passando pela
-interface no navegador, no Windows e no celular.
+Eu sou o Kenny, dev full stack, e o que eu mais curto é pegar uma ideia e levar até o fim: penso a tela, monto a API,
+modelo o banco, subo pro servidor e fico ajustando até ficar do jeito que eu quero.
 
-- 🚀 Criei o **Dokai**, um Software de documentos com IA que roda na **web**, no **PC** e no **celular**, tudo sincronizado
-- 📊 Criei o **SnefAnalytics**, plataforma de contagem de pessoas por câmeras com dashboards e alertas em tempo real
-- 🤖 Integro **IA** nos meus produtos (o **Kai**, assistente do Dokai, roda com Google Gemini)
-- ☁️ Faço meu próprio **deploy**: Docker, VPS Linux e HTTPS automático com Caddy
+Meu xodó hoje é o **Dokai**. Comecei com o site, aí quis ter ele no PC, depois no celular... e quando vi já tinha
+três apps conversando entre si, com a mesma conta e os mesmos documentos em todo lugar. Também botei uma IA lá dentro,
+o **Kai**, que ajuda a criar e entender documentos.
 
----
+Fora isso, fiz o **SnefAnalytics**, um sistema que conta pessoas por câmera e mostra tudo em gráfico, com alerta
+no WhatsApp quando o lugar enche.
 
-## 🎓 Capacitações
-
-| | Área | O que eu faço |
-| :---: | --- | --- |
-| 🎨 | **Front-end** | Interfaces em React com Vite, Tailwind, Zustand e Framer Motion; editores ricos (texto com TipTap, planilha, slides com Konva, PDF com pdf.js) |
-| ⚙️ | **Back-end** | APIs REST em Node.js + Express, autenticação JWT + bcrypt, upload de arquivos, WebSocket / Socket.io em tempo real, tarefas agendadas |
-| 📱 | **Mobile** | App do Dokai para celular com React Native |
-| 🖥️ | **Desktop** | App do Dokai para Windows com Electron: servidor e banco locais, funciona offline e sincroniza com a nuvem; instalador e pacote da Microsoft Store |
-| 🗄️ | **Banco de dados** | Modelagem e SQL em MySQL (multi-tenant), SQLite, MongoDB e Firebase Firestore |
-| 🤖 | **IA** | Assistente com Google Gemini integrado aos documentos do usuário |
-| 📄 | **Documentos** | Gerar e converter DOCX, XLSX, PPTX e PDF (pdf-lib, ExcelJS, docx, PptxGenJS, Mammoth); assinatura e criptografia de PDF |
-| 💳 | **Integrações** | Pagamentos com Mercado Pago, Spotify, e-mail com Nodemailer, bot de WhatsApp (Baileys) |
-| ☁️ | **DevOps** | Docker e Docker Compose, VPS Linux, Caddy com HTTPS, scripts de deploy e backup |
+Tô sempre estudando e testando coisa nova. Se quiser trocar ideia sobre projeto, JavaScript ou qualquer coisa de dev,
+me chama! 😄
 
 ---
 
-## 🛠️ Habilidades
+## 🎓 O que eu sei fazer
+
+- 🎨 **Front-end:** monto interfaces em React que eu quero que fiquem bonitas *e* rápidas. No Dokai fiz editor de texto,
+  planilha com fórmula, slides e editor de PDF do zero (com TipTap, Konva e pdf.js)
+- ⚙️ **Back-end:** APIs em Node + Express, login com JWT, upload de arquivo, coisa em tempo real com WebSocket/Socket.io
+  e tarefa agendada rodando sozinha
+- 📱 **Mobile:** o app do Dokai pro celular, feito em React Native
+- 🖥️ **Desktop:** o Dokai pro Windows em Electron, com servidor e banco rodando no próprio PC, então funciona até sem
+  internet e sincroniza quando volta. Fiz o instalador e mandei pra Microsoft Store também
+- 🗄️ **Banco de dados:** MySQL (o Snef atende várias empresas no mesmo banco), SQLite, e já mexi com MongoDB e Firestore
+- 🤖 **IA:** integrei o Google Gemini no Dokai pra ler e criar documento junto com o usuário
+- 📄 **Arquivos:** abrir, gerar e converter Word, Excel, PowerPoint e PDF, inclusive assinar e proteger PDF com senha
+- 💳 **Integrações:** pagamento com Mercado Pago, Spotify, envio de e-mail e bot de WhatsApp
+- ☁️ **Deploy:** eu mesmo coloco no ar: Docker, VPS Linux e HTTPS com Caddy
+
+---
+
+## 🛠️ Minhas skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,nodejs,express&theme=dark" alt="Skills 1" /><br/>
@@ -95,14 +101,14 @@ interface no navegador, no Windows e no celular.
 
 ---
 
-## 🚀 Projetos
+## 🚀 Meus projetos
 
-### 📄 Dokai — Web
+### 📄 Dokai (Web)
 <a href="https://dokai.online"><img src="https://img.shields.io/badge/acessar-dokai.online-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="dokai.online" /></a>
 
-Suíte de documentos online com IA: **editor de texto, planilhas com fórmulas, apresentações e editor de PDF** (com assinatura),
-biblioteca com pastas, checklist, sociedades (trabalho em equipe), notificações e o **Kai**, assistente de IA que lê e cria
-documentos. Importa e exporta Word, Excel, PowerPoint e PDF.
+A ideia foi ter tudo de documento num lugar só: texto, planilha, apresentação e PDF (dá até pra assinar). Tem pastas,
+checklist, dá pra trabalhar em equipe e tem o **Kai**, a IA que eu coloquei pra ajudar a escrever e entender os arquivos.
+Abre e exporta Word, Excel, PowerPoint e PDF numa boa. Tá no ar, pode testar!
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -117,10 +123,10 @@ documentos. Importa e exporta Word, Excel, PowerPoint e PDF.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
-### 🖥️ Dokai — PC (Windows)
-App próprio para Windows (não é cópia do site): **servidor e banco de dados rodando no PC**, funciona **offline** e sincroniza
-com o dokai.online. Abas, downloads, ícone na bandeja, "Enviar para o Dokai" no clique direito do Explorer, instalador e
-pacote para a **Microsoft Store**.
+### 🖥️ Dokai (PC)
+Eu não queria só jogar o site numa janela, então fiz um app de verdade pro Windows. Ele tem servidor e banco rodando no
+próprio PC, funciona sem internet e sincroniza com o site quando conecta. Ainda coloquei abas, ícone na bandeja e o
+"Enviar para o Dokai" no botão direito do Explorer. Tem instalador e versão pra Microsoft Store.
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -130,8 +136,9 @@ pacote para a **Microsoft Store**.
 ![electron-builder](https://img.shields.io/badge/electron--builder-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-### 📱 Dokai — App Celular
-O Dokai no bolso: mesma conta e mesmos documentos do site e do PC, sincronizados, com o Kai sempre à mão.
+### 📱 Dokai (Celular)
+Faltava o Dokai no bolso, né? 😅 Mesma conta e mesmos documentos do site e do PC, tudo sincronizado, e o Kai
+junto pra quando precisar.
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -139,8 +146,9 @@ O Dokai no bolso: mesma conta e mesmos documentos do site e do PC, sincronizados
 ![Node.js](https://img.shields.io/badge/API%20Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### 📊 SnefAnalytics
-Plataforma **multiempresa** de contagem de pessoas por **câmeras**: zonas e estações, visualização ao vivo, **gráficos e
-relatórios** (exporta Excel), controle de usuários e permissões, alerta de lotação e notificações por **WhatsApp** e e-mail.
+Sistema que conta quantas pessoas passam pelas câmeras e transforma isso em gráfico e relatório (dá pra baixar em Excel).
+Várias empresas usam o mesmo sistema, cada uma com suas zonas, câmeras e usuários. Quando um lugar passa do limite de
+gente, ele avisa sozinho no WhatsApp e no e-mail.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -154,7 +162,7 @@ relatórios** (exporta Excel), controle de usuários e permissões, alerta de lo
 
 ---
 
-## 📈 Estatísticas
+## 📈 Meu GitHub em números
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=qnnyyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&locale=pt-br&count_private=true" alt="Estatísticas" />
@@ -166,6 +174,8 @@ relatórios** (exporta Excel), controle de usuários e permissões, alerta de lo
 </p>
 
 ---
+
+<p align="center"><b>Valeu por passar aqui! Se curtiu algum projeto, deixa uma ⭐ 💜</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="Footer" />
